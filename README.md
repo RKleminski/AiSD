@@ -1,6 +1,9 @@
 # AiSD
-Listy zadań i materiały do przedmiotu AiSD
+Listy zadań i materiały do przedmiotu Algorytmy i Struktury Danych
 
+## Zasady ogólne
+
+[LINK](zasady.md)
 
 ## Listy Zadań
 
