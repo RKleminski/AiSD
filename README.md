@@ -3,11 +3,11 @@ Listy zadań i materiały do przedmiotu Algorytmy i Struktury Danych
 
 ## Zasady ogólne
 
-[LINK](zasady.md)
+[LINK](0_zasady.md)
 
 ## Listy Zadań
 
-1. [Lista](Lista1.md)
+1. [Lista](1_ArrayList.md)
 
 ## Arkusz ocen
 
