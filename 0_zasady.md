@@ -1,5 +1,3 @@
-### Arkusz ocen: *tu będzie link*
-
 ## Konsultacje
 ### Obecny termin: *do ustalenia*
 
