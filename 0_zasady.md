@@ -15,12 +15,19 @@
 
 ## Ocena list
 
-* Każda lista zadań ma przypisane do niej punkty
-* Punktowa ocena listy zależy od stopnia i jakości wykonania zadań z listy
-* Ocena przyznawana jest na podstawie bezpośredniej prezentacji w trakcie zajęć
-* W usprawiedliwionych przypadkach możliwa jest prezentacja w terminie konsultacji lub umówionym
-* Każda lista zadań ma wyznaczony termin oddania
-* Za każdy *rozpoczęty* tydzień opóźnienia, punkty otrzymane za wykonanie listy zostają zmniejszone o 25%
+* Ogólne
+  * Każda lista zadań ma wyznaczony termin oddania
+
+* Punkty
+  * Każda lista zadań ma przypisane do niej punkty, z rozbiciem na poszczególne elementy rozwiązania
+  * Punktowa ocena listy zależy od stopnia i jakości wykonania zadań z listy
+  * Za każdy *rozpoczęty* tydzień opóźnienia, punkty otrzymane za wykonanie listy zostają zmniejszone o 25%
+
+* Sprawdzanie
+  * Punkty przyznawane są na podstawie bezpośredniej prezentacji w trakcie zajęć
+  * W trakcie prezentacji sprawdzana jest znajomość i jakość kodu, sposób implementacji oraz działanie programu
+  * Dla płynności prezentacji, rozwiązanie listy powinno zawierać przykłady działania wszystkich metod/funkcjonalności programu
+  * W usprawiedliwionych przypadkach możliwa jest prezentacja w terminie konsultacji lub umówionym
 
 ## Ocena przedmiotu
 
