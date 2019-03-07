@@ -13,12 +13,15 @@
 
 ## Ocena list
 
-* Ogólne
-  * Każda lista zadań ma wyznaczony termin oddania
-
 * Punkty
   * Każda lista zadań ma przypisane do niej punkty, z rozbiciem na poszczególne elementy rozwiązania
   * Punktowa ocena listy zależy od stopnia i jakości wykonania zadań z listy
+
+* Spóźnienia
+  * Każda lista zadań ma wyznaczony termin oddania
+  * Oddanie zadania po terminie skutkuje stosownym obniżeniem oceny punktowej
+  * Terminowe oddanie to zaprezentowanie programu podczas zajęć we wskazanym dniu
+  * W uzasadnionych przypadkach oddanie programu będzie traktowane jako terminowe także po terminie *(np. zwolnienie lekarskie, brak czasu na sprawdzenie wszystkich zadań w czasie zajęć)*
   * Za każdy *rozpoczęty* tydzień opóźnienia, punkty otrzymane za wykonanie listy zostają zmniejszone o 25%
 
 * Sprawdzanie
@@ -36,9 +39,9 @@
 | Punkty | Ocena |
 | :----: | :---: |
 | 99 - 100 | 5.5 |
-| 90 - 98 | 5.0 |
-| 81 - 89 | 4.5 |
-| 72 - 80 | 4.0 |
-| 63 - 71 | 3.5 |
-| 55 - 62 | 3.0 |
-| 0 - 54 | 2.0 |
+| 90 - 98.99 | 5.0 |
+| 81 - 89.99 | 4.5 |
+| 72 - 80.99 | 4.0 |
+| 63 - 71.99 | 3.5 |
+| 55 - 62.99 | 3.0 |
+| 0 - 54.99 | 2.0 |
