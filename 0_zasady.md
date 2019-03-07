@@ -2,7 +2,7 @@
 ### Obecny termin: *do ustalenia*
 
 * Termin konsultacji zostaje ogłoszony najpóźniej na drugich zajęciach w semestrze
-* Dla płynności współpracy zachęcam do zapowiadania swojej obecności na konsultacjach
+* Na konsultacje proszę umawiać się mailowo, mile widziane sprecyzowanie problemu/celu zawczasu
 * Spotkania poza terminem konsultacji będą miały miejsce *jedynie* w przypadku ich wcześniejszego umówienia
 
 ## Obecność
