@@ -1,5 +1,5 @@
 ## Konsultacje
-### Obecny termin: *do ustalenia*
+### Obecny termin: *ŚR 8:00 - 9:00, s. 203L bud. A-1*
 
 * Termin konsultacji zostaje ogłoszony najpóźniej na drugich zajęciach w semestrze
 * Na konsultacje proszę umawiać się mailowo, mile widziane sprecyzowanie problemu/celu zawczasu
