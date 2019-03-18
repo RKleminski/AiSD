@@ -9,6 +9,7 @@ Listy zadań i materiały do przedmiotu Algorytmy i Struktury Danych
 
 1. [Lista](1_ArrayList.md)
 2. [Stos i kolejka](2_StackQueue.md)
+3. [Algorytmy sortowania](3_Sort.md)
 
 ## Arkusz ocen
 
