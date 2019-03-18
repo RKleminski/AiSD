@@ -1,6 +1,8 @@
 ## Zadanie 1: Lista
 
+* Termin zajęć: 7.03.2019
 * Termin oddania: 14.03.2019
+* Sposób zaliczenia: prezentacja na zajęciach
 * Punkty: 5
 
 ## Opis zadania
