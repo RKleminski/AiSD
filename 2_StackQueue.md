@@ -1,6 +1,8 @@
 ## Zadanie 2: Stos i Kolejka
 
+* Termin zajęć: 14.03.2019
 * Termin oddania: 21.03.2019
+* SPosób zaliczenia: prezentacja na zajęciach
 * Punkty: 10
 
 ## Opis zadania
