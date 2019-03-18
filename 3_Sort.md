@@ -65,6 +65,17 @@
 * Dla uzyskania najbardziej miarodajnych wyników, zalecane jest wygenerowanie stu różnych ciągów dla każdej kombinacji długość-stopień posortowania i zapisanie na dysku, celem wykorzystania w badaniach
 * Dla uzyskania najbardziej miarodajnych wyników, zalecane jest generowanie ciągów o pewnym stopniu posortowania przez zastosowanie jednej z zaimplementowanych metod na ciągu losowym. Generowanie częściowo posortowanego ciągu za pomocą pętli `for` jest dopuszczalne, ale odradzane
 
+```python
+# Pseudokod procesu badań:
+
+for algorithm in sorting_algorithms:
+    for sequence_length in sequence_lengths:
+        for sequence_type in sequence_types:
+            for sequence_ID in range(0, 100):
+                sort_sequence(algorithm, sequence_length, sequence_type, sequence_ID)
+```
+
+
 2.3. Sprawozdanie
 * Struktura sprawozdania, przy poszczególnych sekcjach wymienione przykładowe informacje jakie można w nich zawrzeć:
   * Krótkie wprowadzenie teoretyczne
