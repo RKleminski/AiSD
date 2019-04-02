@@ -37,7 +37,7 @@
 * Forma interfejsu (graficzny/tekstowy) jest całkowicie dowolna
 * Interfejs powinien pozwalać na wybór:
   * Algorytmu sortowania do testu
-  * Typu ciągu testowego
+  * Stopnia posortowania ciągu testowego
   * Długości ciągu testowego
 * Opcjonalnie można pozwolić na wczytanie ciągu z pliku
 
