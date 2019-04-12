@@ -16,7 +16,7 @@
   
   1.2 Metody
   * Add
-  * Remove - *usuwa element po ID*
+  * Remove - *usuwa element po kluczu*
   * Size
   * Root - *zwraca korzeń drzewa*
   * Subtree - *zwraca pod-drzewo z korzeniem w podanym elemencie*
