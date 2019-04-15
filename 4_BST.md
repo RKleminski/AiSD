@@ -13,6 +13,7 @@
   * Zaimplementowanie poprawnej struktury drzewa, tj. wielopoziomowej struktury danych w której każdy element posiada dwa elementy potomne, lewy oraz prawy
   * Każdy element posiada wewnętrzne ID w drzewie oraz przechowywaną wartość (klucz)
   * Potomek lewy elementu zawsze ma klucz mniejszy or rodzica, prawy - większy
+  * Wystarczy zaimplementowanie struktury dla prostego typu numerycznego klucza (np. int); generyczne drzewo będzie dodatkowo punktowane
   
   1.2 Metody
   * Add
