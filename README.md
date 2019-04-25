@@ -11,6 +11,7 @@ Listy zadań i materiały do przedmiotu Algorytmy i Struktury Danych
 2. [Stos i kolejka](2_StackQueue.md)
 3. [Algorytmy sortowania](3_Sort.md)
 4. [Binarne drzewa poszukiwań](4_BST.md)
+5. [Kopiec](5_Heap.md)
 
 ## Arkusz ocen
 
