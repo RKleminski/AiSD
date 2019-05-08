@@ -1,4 +1,4 @@
-## Zadanie 4: Kopiec
+## Zadanie 5: Kopiec
 
 * Termin zajęć: 25.04.2019
 * Termin oddania: 9.05.2019
