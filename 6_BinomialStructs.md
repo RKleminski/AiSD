@@ -1,7 +1,7 @@
 ## Zadanie 6: Drzewa i kopce dwumianowe
 
 * Termin zajęć: 09/05/2019
-* Termin oddania: 15/05/2019
+* Termin oddania: 16/05/2019
 * Sposób zaliczenia: prezentacja na zajęciach
 * Punkty: 15
 
