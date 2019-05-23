@@ -13,6 +13,7 @@ Listy zadań i materiały do przedmiotu Algorytmy i Struktury Danych
 4. [Binarne drzewa poszukiwań](4_BST.md)
 5. [Kopiec](5_Heap.md)
 6. [Drzewo i kopiec dwumianowy](6_BinomialStructs.md)
+7. [Grafy](7_Graphs.md)
 
 ## Arkusz ocen
 
